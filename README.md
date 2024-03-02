@@ -1,4 +1,4 @@
-# myapp
+# Flutter Experiments
 
 A new Flutter project.
 
